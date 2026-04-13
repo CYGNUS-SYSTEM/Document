@@ -2,9 +2,7 @@
 
 At **CYGNUS SYSTEM**, we design and deliver high-quality, scalable, and secure software solutions tailored to modern business needs. Our focus is on building efficient systems that solve real-world problems and support long-term growth.
 
-We work across multiple industries including finance, healthcare, and e-commerce, providing end-to-end development services—from concept to deployment.
-
----
+We work across multiple industries including finance, healthcare, and e-commerce, providing end-to-end development services from concept to deployment.
 
 ## ⚡ Our Expertise
 
@@ -26,28 +24,20 @@ We build secure RESTful and GraphQL APIs and integrate third-party services like
 ### 🛒 CMS & E-Commerce
 We develop and customize platforms using WordPress, Shopify, and WooCommerce for scalable online businesses.
 
----
-
 ## ☁️ Cloud, DevOps & Infrastructure
 
 We deploy and manage applications on cloud platforms like AWS, GCP, and Azure. Our DevOps practices include CI/CD pipelines, containerization with Docker and Kubernetes, and infrastructure automation using Terraform and CloudFormation.
 
----
-
 ## 📈 Growth & Optimization
 
-We help businesses grow by improving performance, SEO, and analytics integration—ensuring better visibility and data-driven decisions.
-
----
+We help businesses grow by improving performance, SEO, and analytics integration, ensuring better visibility and data-driven decisions.
 
 ## 🚀 Our Approach
 
-- Clean and scalable architecture  
-- Agile development process  
-- Focus on performance and security  
-- Timely delivery with continuous improvement  
-
----
+Clean and scalable architecture  
+Agile development process  
+Focus on performance and security  
+Timely delivery with continuous improvement  
 
 ## 🎯 Our Goal
 
